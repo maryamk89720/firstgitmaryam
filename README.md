@@ -1,2 +1,2 @@
 # firstgitmaryam
-Hey, this is my first Git Repository
+Hey, myself Maryam introducing me and my projects on GitHub!
